@@ -1,0 +1,4 @@
+keyboard
+PyAudioWPatch
+SpeechRecognition
+indic_transliteration==2.3.82
